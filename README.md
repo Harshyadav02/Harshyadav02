@@ -7,7 +7,7 @@
 - 📍 I live in Indore, Madhya Pradesh, India.
 - ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,python,flask,linux,mysql,java,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,python,flask,linux,mysql,java,&perline=8)](https://skillicons.dev)
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshyadav02&label=Profile%20views&color=0e75b6&style=flat" alt="harshyadav02" /> </p>
